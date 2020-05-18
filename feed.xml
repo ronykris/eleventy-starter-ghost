@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ghost</title>
+  <subtitle>The professional publishing platform</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self"/>
+  <link href="http://localhost:8080"/>
+  <updated></updated>
+  <id>http://localhost:8080</id>
+  <author>
+    <name>John O&#39;Nolan</name>
+  </author>
+  <entry>
+    <title>Gettysburg Address</title>
+    <link href="http://localhost:8080/gettysburg-address/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>The Purpose of Education</title>
+    <link href="http://localhost:8080/the-purpose-of-education/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Publishing options</title>
+    <link href="http://localhost:8080/publishing-options/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Managing admin settings</title>
+    <link href="http://localhost:8080/admin-settings/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Organising your content</title>
+    <link href="http://localhost:8080/organising-content/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Apps &amp; integrations</title>
+    <link href="http://localhost:8080/apps-integrations/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Creating a custom theme</title>
+    <link href="http://localhost:8080/themes/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Writing posts with Ghost ✍️</title>
+    <link href="http://localhost:8080/the-editor/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>A Full and Comprehensive Style Test</title>
+    <link href="http://localhost:8080/style-test/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>I Have a Dream</title>
+    <link href="http://localhost:8080/i-have-a-dream/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Welcome to Ghost</title>
+    <link href="http://localhost:8080/welcome/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Out to Sea</title>
+    <link href="http://localhost:8080/out-to-sea/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Looking-Glass house</title>
+    <link href="http://localhost:8080/looking-glass-house/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Down The Rabbit Hole</title>
+    <link href="http://localhost:8080/down-the-rabbit-hole/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>The Businessman &amp; The Fisherman</title>
+    <link href="http://localhost:8080/the-businessman-the-fisherman/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+</feed>
