@@ -7,7 +7,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/author/edgar/</loc>
+    <loc>http://localhost:8080/author/lewis/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
@@ -17,12 +17,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/author/john/</loc>
+    <loc>http://localhost:8080/author/martin/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/author/cameron/</loc>
+    <loc>http://localhost:8080/author/edgar/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
@@ -32,12 +32,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/author/martin/</loc>
+    <loc>http://localhost:8080/author/cameron/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/author/lewis/</loc>
+    <loc>http://localhost:8080/author/john/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
@@ -58,41 +58,6 @@
   
   <url>
     <loc>http://localhost:8080/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/the-businessman-the-fisherman/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/down-the-rabbit-hole/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/gettysburg-address/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/the-purpose-of-education/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/publishing-options/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/admin-settings/</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/organising-content/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
@@ -133,6 +98,41 @@
   
   <url>
     <loc>http://localhost:8080/looking-glass-house/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/down-the-rabbit-hole/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/the-businessman-the-fisherman/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/gettysburg-address/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/the-purpose-of-education/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/publishing-options/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/admin-settings/</loc>
+    <lastmod>2020-05-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/organising-content/</loc>
     <lastmod>2020-05-16</lastmod>
   </url>
   
