@@ -1,6 +1,3 @@
 [build]
-  command = "npm run build"
-  publish = "dist/"
-
-[template]
-  incoming-hooks = ["Ghost"]
+  publish = "_site"
+  command = "DEBUG=* eleventy"
