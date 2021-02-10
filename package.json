@@ -1,51 +1,35 @@
 {
-  "name": "eleventy-starter-ghost",
-  "version": "1.0.0",
-  "description": "A starter template to build websites with Ghost & Eleventy",
-  "main": ".eleventy.js",
+  "name": "eleventy-base-blog",
+  "version": "5.0.2",
+  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "start": "yarn run dev",
-    "dev": "cross-env ELEVENTY_ENV=dev eleventy --serve",
-    "build": "cross-env ELEVENTY_ENV=prod eleventy",
-    "test": "yarn run build",
-    "lint": "eslint . --ext .js --cache"
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TryGhost/eleventy-starter-ghost.git"
+    "url": "git://github.com/11ty/eleventy-base-blog.git"
   },
-  "keywords": [
-    "eleventy",
-    "ghost",
-    "starter",
-    "boilerplate",
-    "static",
-    "site",
-    "jamstack"
-  ],
-  "author": "David Darnes",
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TryGhost/eleventy-starter-ghost/issues"
+    "url": "https://github.com/11ty/eleventy-base-blog/issues"
   },
-  "homepage": "https://github.com/TryGhost/eleventy-starter-ghost#readme",
-  "dependencies": {
-    "@11ty/eleventy": "^0.11.0",
-    "@11ty/eleventy-plugin-rss": "^1.0.7",
-    "@tryghost/content-api": "^1.4.1",
-    "@tryghost/helpers": "^1.1.27",
-    "clean-css": "^4.2.3",
-    "cross-env": "^7.0.2",
-    "dotenv": "^8.2.0",
-    "downsize": "^0.0.8",
-    "eleventy-plugin-lazyimages": "^1.1.1",
-    "eleventy-plugin-local-images": "^0.3.0",
-    "eslint-utils": "2.0.0",
-    "html-minifier": "^4.0.0",
-    "moment": "^2.25.3"
-  },
+  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
-    "eslint": "6.8.0",
-    "eslint-plugin-ghost": "^1.4.1"
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "@11ty/eleventy-plugin-rss": "^1.1.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
+    "luxon": "^1.25.0",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.2.5"
   }
 }
